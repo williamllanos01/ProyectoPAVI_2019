@@ -24,6 +24,12 @@ namespace EjemploLogin
             MessageBox.Show("Se debe ingresar un usuario.");
             returm;
             }
+            //Validamos que se haya ingresado una contraseña
+            if((txtContresena.Text == ""))
+            {
+            MessageBox.Show("Se debe ingresar una Contraseña.");
+            returm;
+            }
         }
     }
 }
