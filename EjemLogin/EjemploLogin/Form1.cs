@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
+
+// formulario de Login
 namespace EjemploLogin
 {
     public partial class Form1 : Form
