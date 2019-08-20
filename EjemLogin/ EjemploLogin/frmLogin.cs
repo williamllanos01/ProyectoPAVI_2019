@@ -18,7 +18,12 @@ namespace EjemploLogin
         //nuevo login
         private void btnIngresar_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hola");
+            //validamos que se haya ingresado un usuario
+            if((txtUsuario.Text ==""))
+            {
+            MessageBox.Show("Se debe ingresar un usuario.");
+            returm;
+            }
         }
     }
 }
