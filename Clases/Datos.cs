@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using System.Data;
 using System.Data.OleDb;
 
+// esta incompleto hay que mejorarlo 
 namespace WindowsFormsApplication1.Clases
 {
     class Datos
