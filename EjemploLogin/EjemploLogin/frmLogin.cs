@@ -15,7 +15,7 @@ namespace EjemploLogin
         {
             InitializeComponent();
         }
-
+         //boton ingresar listo
         private void btnIngresar_Click(object sender, EventArgs e)
         {
 
