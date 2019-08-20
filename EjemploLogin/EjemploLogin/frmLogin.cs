@@ -15,5 +15,10 @@ namespace EjemploLogin
         {
             InitializeComponent();
         }
+
+        private void btnIngresar_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
