@@ -15,7 +15,7 @@ namespace EjemploLogin
         {
             InitializeComponent();
         }
-
+        //nuevo login
         private void btnIngresar_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Hola");
