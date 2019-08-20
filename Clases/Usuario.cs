@@ -14,6 +14,8 @@ namespace WindowsFormsApplication1.Clases
         string password;
         string email;
         int id_perfil;
+        string apellido;
+        
 
         
 
